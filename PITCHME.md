@@ -1,25 +1,13 @@
-# Let's Get Started
+# Reimagining the paper
+A BoF at BOSC, 24th July 2019
 
 ---
 
-## Add Some Slide Candy
+## Reproducibility: a definition
 
-![](assets/img/presentation.png)
+![](book/content/figures/reproducibility/ReproducibleMatrix.jpg)
 
----?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
-
-@snap[west span-50]
-## Customize the Layout
-@snapend
-
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
-
-@snap[south span-100 text-white]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
+From [the Turing Way: a lightly opinionated guide to reproducible data science](https://the-turing-way.netlify.com/introduction/introduction)
 
 ---?color=linear-gradient(90deg, #E27924 65%, white 35%)
 @title[Add A Little Imagination]
